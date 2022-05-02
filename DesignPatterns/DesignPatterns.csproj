@@ -18,4 +18,9 @@
         </PackageReference>
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Behavioral" />
+      <Folder Include="Creational" />
+    </ItemGroup>
+
 </Project>
